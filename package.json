@@ -1,0 +1,12 @@
+{
+  "name": "helanbak-blade-tracker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.0.10"
+  }
+}
